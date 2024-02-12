@@ -1,3 +1,4 @@
+#sandeep
 student_number = int(input("Enter student number: "))
 student_name = input("Enter student name: ")
 marks_subject1 = float(input("Enter marks for subject 1: "))
